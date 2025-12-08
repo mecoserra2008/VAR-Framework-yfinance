@@ -29,6 +29,7 @@ pip install -r requirements.txt
 - `statsmodels>=0.14.0` - Econometric models
 - `scikit-learn>=1.3.0` - Machine learning utilities
 - `pyyaml>=6.0` - YAML configuration parsing
+- `matplotlib>=3.7.0` - Plotting backend for pandas styling
 
 ## Configuration
 
