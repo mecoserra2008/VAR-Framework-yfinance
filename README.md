@@ -5,7 +5,7 @@
 
 ## Overview
 
-This is a Streamlit app created by Américo Serra and [Gulnora Nizomova]([https://github.com/GulnoraN]) to fulfill the needs of the modelling structure proposed by Gabriel Zsurkis, professor of Macroeconometrics II in Msc in Applied Econometrics and Forecasting at ISEG. Fetches data from Yahoo Finance and performs econometric testing, model estimation, and forecasting.
+This is a Streamlit app created by Américo Serra and [Gulnora Nizomova](https://github.com/GulnoraN) to fulfill the needs of the modelling structure proposed by Gabriel Zsurkis, professor of Macroeconometrics II in Msc in Applied Econometrics and Forecasting at ISEG. Fetches data from Yahoo Finance and performs econometric testing, model estimation, and forecasting.
 
 ## Requirements
 
