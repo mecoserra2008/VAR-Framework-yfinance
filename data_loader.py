@@ -26,7 +26,7 @@ warnings.filterwarnings('ignore')
 def load_assets_from_yaml():
     """Load all assets from the YAML configuration file"""
     try:
-        yaml_path = Path(r"C:\Users\User\Desktop\macro2\assets.yaml")
+        yaml_path = Path(r"assets.yaml")
         if not yaml_path.exists():
             st.error("assets.yaml file not found. Please ensure it's in the same directory.")
             return {}
